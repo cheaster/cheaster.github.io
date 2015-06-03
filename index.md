@@ -6,7 +6,6 @@ tagline: 机器学习
 {% include JB/setup %}
 
 \\[ P(A|B)=\frac{P(B|A)P(A)}{P(B)} \\]
-\\[\alpha^2 + \beta^2 = \gamma^2\\]
 
 ## 个人简介
 * 姓名：    苏琪(Cheaster)
