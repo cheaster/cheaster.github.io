@@ -6,6 +6,7 @@ tagline: 机器学习
 {% include JB/setup %}
 
 \\[ P(A|B)=\frac{P(B|A)P(A)}{P(B)} \\]
+\\[ \alpha \beta \gamma \\]
 
 ## 个人简介
 * 姓名：    苏琪(Cheaster)
@@ -44,7 +45,6 @@ tagline: 机器学习
 * 喜欢自由，享受自由
 * 喜欢接受新技术新思想
 * 热爱技术但更热爱生活
-* 想成为一名优秀的架构师
 
 
 ## 联系方式
